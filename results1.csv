@@ -1,0 +1,10 @@
+mode,weight initialization,activation,learning_rate,test_mae,test_mse
+Batch_Gradient_Descent,xavier,relu,0.1,1033837.4016678978,930341.2836486053
+Batch_Gradient_Descent,xavier,tanh,0.1,913358.5674764059,860277.4814912915
+Batch_Gradient_Descent,xavier,leaky_relu,0.1,1291561.7625166872,1078813.1468359502
+Stoch_Batch_Gradient_Descent,xavier,relu,0.1,613014.569003911,598342.8223602426
+Stoch_Batch_Gradient_Descent,xavier,tanh,0.1,722565.1046136946,671554.9075817409
+Stoch_Batch_Gradient_Descent,xavier,leaky_relu,0.1,603178.1807046303,752197.5086449347
+Mini_Batch_Gradient_Descent,xavier,relu,0.1,873233.265267853,880281.0576702241
+Mini_Batch_Gradient_Descent,xavier,tanh,0.1,721924.2032343014,685724.628372904
+Mini_Batch_Gradient_Descent,xavier,leaky_relu,0.1,861621.5815771109,825593.7205822717

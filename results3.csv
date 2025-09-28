@@ -1,0 +1,10 @@
+mode,weight initialization,activation,learning_rate,train_mae,val_mae
+Batch_Gradient_Descent,he,relu,0.001,2308078.2373219132,2448487.0206661723
+Batch_Gradient_Descent,he,tanh,0.001,3330511.438451123,3523753.438526036
+Batch_Gradient_Descent,he,leaky_relu,0.001,2292137.4359927876,2504274.053764118
+Stoch_Batch_Gradient_Descent,he,relu,0.001,800370.8317840839,804579.3285978872
+Stoch_Batch_Gradient_Descent,he,tanh,0.001,924365.2690632109,861212.5766258686
+Stoch_Batch_Gradient_Descent,he,leaky_relu,0.001,809135.8958341936,801096.9587163671
+Mini_Batch_Gradient_Descent,he,relu,0.001,1921969.1477705908,2026495.990325641
+Mini_Batch_Gradient_Descent,he,tanh,0.001,2198623.0139426324,2201966.6199885374
+Mini_Batch_Gradient_Descent,he,leaky_relu,0.001,1846773.8880880498,2021623.8575660603
